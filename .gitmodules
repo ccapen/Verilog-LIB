@@ -1,0 +1,3 @@
+[submodule "Verilog-SPI"]
+	path = Verilog-SPI
+	url = https://github.com/ccapen/Verilog-SPI.git
