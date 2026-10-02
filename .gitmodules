@@ -1,3 +1,9 @@
 [submodule "Verilog-SPI"]
 	path = Verilog-SPI
 	url = https://github.com/ccapen/Verilog-SPI.git
+[submodule "Verilog-IIC"]
+	path = Verilog-IIC
+	url = https://github.com/ccapen/Verilog-IIC.git
+[submodule "Verilog-UART"]
+	path = Verilog-UART
+	url = https://github.com/ccapen/Verilog-UART.git
